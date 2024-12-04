@@ -1,7 +1,7 @@
 # Log Analysis Script
 
 ## Overview  
-This project is a Python-based log analysis tool designed to process web server logs, extract key insights, and identify potential security threats. It demonstrates skills in file handling, data analysis, and cybersecurity.
+This project is a Python-based log analysis tool designed to process web server logs, extract key insights, and identify potential security threats.
 
 ## Features  
 1. **Requests Per IP Address**  
