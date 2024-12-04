@@ -22,4 +22,4 @@ This project is a Python-based log analysis tool designed to process web server 
 
 ## Usage  
 1. Clone the repository:  
-   ```bash[ git clone https://github.com/PAVITRA1919/Log_Analysis.git ]
+   ```bash  [ git clone https://github.com/PAVITRA1919/Log_Analysis.git ] ```
